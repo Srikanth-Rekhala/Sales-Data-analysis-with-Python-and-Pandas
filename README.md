@@ -1,2 +1,2 @@
 # Sales-data-analysis
-Exploratory data analysis using Python Numpy, &amp; Pandas, Matplotlib & Seaborn
+Exploratory data analysis using Python Numpy, Pandas, Matplotlib & Seaborn
